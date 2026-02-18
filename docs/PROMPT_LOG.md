@@ -1,60 +1,41 @@
-# PROMPT_LOG.md — Prompt Record
-
-> Log every significant prompt you run. This isn't busywork — it's how you learn what works.
-> By your portfolio project, you should be writing prompts without looking at the Prompt Pack.
-
----
+# PROMPT LOG
 
 ## Prompt 1
+"Explain Bauhaus in 150 words for a design student."
 
-- **Phase:** Exploration / Production / Critique *(pick one)*
-- **Prompt name:** *(e.g., "Concept Map", "Draft Labels", "Expert Critique")*
-- **What I sent:**
+Result:
+The AI provided a general summary but lacked founding date and key figures.
 
-```
-[Paste the prompt you used here]
-```
+Revision:
+I refined the prompt to include the founding year, location, and core principles.
 
-- **What I got back (summary):**
-
-*[1–3 sentences: what was useful, what was wrong, what you kept]*
-
-- **What I did with it:**
-
-*[Did you pin it? Discard it? Edit it? Promote it to AGENTS.md?]*
+Improvement:
+The second output included Walter Gropius and clearer explanation of functionalism.
 
 ---
 
 ## Prompt 2
+"Compare Swiss Style to Bauhaus."
 
-- **Phase:**
-- **Prompt name:**
-- **What I sent:**
+Result:
+The response was broad and did not emphasize grid systems.
 
-```
-[Paste prompt here]
-```
+Revision:
+I asked specifically for differences in typography and layout structure.
 
-- **What I got back (summary):**
-
-- **What I did with it:**
+Improvement:
+The revision clearly identified grid systems and Helvetica as defining features.
 
 ---
 
 ## Prompt 3
+"Identify a design movement that reacted against Swiss Style."
 
-- **Phase:**
-- **Prompt name:**
-- **What I sent:**
+Result:
+The AI suggested New Wave and explained experimental typography.
 
-```
-[Paste prompt here]
-```
+Revision:
+I asked for stronger emphasis on rebellion and asymmetry.
 
-- **What I got back (summary):**
-
-- **What I did with it:**
-
----
-
-*Add more entries as needed. Minimum 3 logged prompts for this assignment.*
+Improvement:
+The final response clearly framed New Wave as a reaction against strict grid systems.
