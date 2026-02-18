@@ -1,91 +1,28 @@
 # CURATOR NOTES
 
-```
-========================================================
-  FILL THIS OUT BEFORE YOU PROMPT.
-  THIS IS RAW THINKING. NO ONE GRADES YOUR PROSE HERE.
-  EXPLORE >>> PIN >>> PROMOTE
-========================================================
-```
-
 ---
 
 ## WHAT I ALREADY KNOW (OR THINK I KNOW)
 
-```
-Write bluntly. Wrong answers are fine. That is the point.
-```
-
-1.
-2.
-3.
+1. Bauhaus was founded in 1919 in Germany and focused on combining art and industrial production.
+2. Swiss Style emphasized grid systems and clean typography like Helvetica.
+3. New Wave reacted against Swiss rigidity and introduced experimental typography.
 
 ## WHAT I DO NOT KNOW
 
-```
-What are you fuzzy on? What might be completely wrong?
-Be honest. Uncertainty is data.
-```
+1. I am unsure how directly New Wave designers referenced Swiss Style historically.
+2. I am not fully certain which designers were most influential in each movement.
+3. I might be oversimplifying the relationship between Bauhaus and Swiss Style.
 
-1.
-2.
-3.
+## EXPLORE
 
-## VOCABULARY I NEED BEFORE I CAN WRITE
+I want to explore how modernist design evolved across generations and how each movement both inherited and rejected previous ideas. I am especially interested in how structure leads to rebellion in design history.
 
-```
-List the domain terms you need to learn.
-If you cannot define it in one sentence, you do not know it yet.
-```
+## PIN
 
-1.
-2.
-3.
+The strongest through-line seems to be the tension between structure and expression: Bauhaus creates structure, Swiss formalizes it, and New Wave disrupts it.
 
----
+## PROMOTE
 
-## PINNED: CONCEPT MAP
+This collection will show how design movements evolve through refinement and resistance, demonstrating that visual communication is shaped by both discipline and experimentation.
 
-```
-Source: AI-generated via Prompt Pack > Concept Map prompt.
-Paste the BEST output. Delete everything else.
-```
-
-[PASTE HERE]
-
-## PINNED: VOCABULARY
-
-```
-Source: AI-generated via Prompt Pack > Controlled Vocabulary prompt.
-Keep only the terms you will actually use. Kill the rest.
-```
-
-[PASTE HERE]
-
-## PINNED: CONFUSIONS AND BOUNDARIES
-
-```
-Source: AI-generated via Prompt Pack > Confusions prompt.
-Pin the distinctions that surprised you or corrected you.
-```
-
-[PASTE HERE]
-
----
-
-## DECISIONS
-
-| Decision | Your Answer |
-|---|---|
-| Card 3 movement | [New Wave / Grunge — pick one, say why] |
-| Expert for critique | [Name — say why this expert for this card] |
-
-## THINGS I CHANGED MY MIND ABOUT
-
-```
-After research, what did you reverse on? If nothing, you were not
-paying attention or you already knew everything. Pick one.
-```
-
-1.
-2.
