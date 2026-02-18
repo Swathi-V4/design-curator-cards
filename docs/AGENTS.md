@@ -1,77 +1,65 @@
-# AGENTS.md — AI Instructions
+# PROMPT LOG
 
-> This file is your "master letter" to the AI. Everything the AI needs to know about your project goes here.
-> You will write a version of this file for every project this semester.
->
-> **For this assignment**, the audience and constraints are defined for you below.
-> **For future projects** (Design Museum, Business Site, Portfolio), you'll define your own audience, tone, and constraints from scratch.
+This log documents how I used AI as a drafting assistant and then refined outputs to meet the assignment constraints (museum-label tone, 3 cards, 80–120 words each, exactly 5 tags, exactly 2 real links, “Not to be confused with…”, and an accountability sentence).
 
-## Audience & Tone
+---
 
-<!-- WHY THIS IS SET: Museum labels target a specific reader. Defining audience
-     prevents the AI from writing for the wrong context (too academic, too casual). -->
+## Prompt 1 — Bauhaus (Draft)
 
-- **Audience:** Museum visitors with general interest in design (not experts)
-- **Tone:** Authoritative but accessible. Think museum wall label — precise, confident, no fluff.
-- **Reading level:** Educated adult, no jargon without context
+**Prompt:**
+Write an 80–120 word museum label about Bauhaus for non-experts. Include: (1) clear historical context, (2) exactly 5 vocabulary tags, (3) exactly 2 real example links, (4) a sentence starting “Not to be confused with … because …”, and (5) a sentence starting “Accountability: I verified this by checking …”. Avoid vague words like “iconic” or “innovative.”
 
-## Hard Constraints
+**AI Output Summary:**
+The draft was generally accurate, but it was slightly too vague and didn’t emphasize the “art + craft + technology” goal strongly enough. It also needed clearer wording for the “not to be confused with” sentence.
 
-- **Word count per card:** 80–120 words
-- **Number of cards:** 3 (Bauhaus, Swiss Style, Reaction)
-- **Vocabulary tags per card:** exactly 5
-- **Example links per card:** exactly 2 (must be real, working URLs)
-- **Required elements per card:**
-  - "Not to be confused with ___ because ___."
-  - "I verified this by checking [source]."
+**Revision Decision:**
+Tighten the wording around Bauhaus’s purpose (unity of disciplines + functionalism) and make the comparison sentence more specific.
 
-## Banned Words
+---
 
-<!-- WHY THIS MATTERS: Vague words waste tokens and dilute meaning.
-     In your Business Site project, you'll build a different banned list
-     (e.g., banning "synergy," "leverage," "best-in-class"). -->
+## Prompt 2 — Bauhaus (Refinement)
 
-Do not use these vague words in any card:
+**Prompt:**
+Rewrite the Bauhaus label to be more specific. Must mention: 1919, Weimar, Walter Gropius, functionalism (“form follows function”), and the link between design and industrial production. Keep it within 80–120 words. Keep exactly 5 tags and 2 working museum/official links. Strengthen the “Not to be confused with…” sentence by explaining the difference from generic minimalism.
 
-- creative, innovative, revolutionary, iconic
-- interesting, unique, beautiful, amazing
-- game-changing, groundbreaking, cutting-edge
-- basically, essentially, literally
+**AI Output Summary:**
+This version was clearer and more historically grounded. It used more precise design vocabulary and made the comparison sentence more meaningful.
 
-Replace with specific domain vocabulary.
+**Revision Decision:**
+Use the improved structure, then manually check word count and verify sources (Bauhaus Archive + Tate) before finalizing in the HTML card.
 
-## Controlled Vocabulary
+---
 
-<!-- THIS IS YOUR JOB: Build this list during Exploration (Phase 1).
-     Run the vocabulary prompt from the Prompt Pack, then SELECT the terms
-     that are actually useful. Discard the rest. Aim for 15–25 terms.
-     For the Design Museum, your team will build a shared vocabulary.
-     For the Business Site, this list will include Cialdini, Maslow, archetype terms. -->
+## Prompt 3 — Swiss Style (Draft)
 
-Use these terms. If a term is not on this list, define it before using it.
+**Prompt:**
+Write an 80–120 word museum label about Swiss Style (International Typographic Style). Emphasize grid systems, sans-serif typography (ex: Helvetica), readability, neutrality/objectivity, and influence on corporate branding/signage. Include exactly 5 tags, exactly 2 real museum/reference links, a “Not to be confused with…” sentence, and an accountability sentence.
 
-| Term | Definition |
-|------|-----------|
-| Vorkurs | Bauhaus foundation course teaching materials, form, and color |
-| *[Add your terms here]* | *[One-sentence definition]* |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+**AI Output Summary:**
+The draft clearly explained Swiss Style’s focus on grids and typography, but the “Not to be confused with…” sentence needed a sharper contrast to Bauhaus.
 
-*Aim for 15–25 terms total. Build this list during your Exploration phase.*
+**Revision Decision:**
+Revise the comparison sentence to clearly distinguish Swiss Style’s typographic/graphic focus from Bauhaus’s broader architectural and industrial experimentation.
 
-## Verification Rule
+---
 
-If you are unsure about any fact, date, attribution, or claim: write **VERIFY** instead of guessing. I will check it myself.
+## Prompt 4 — New Wave (Reaction) (Draft)
 
-Do not invent quotes. Do not fabricate anecdotes. Do not attribute ideas to people without sourced evidence.
+**Prompt:**
+Write an 80–120 word museum label about New Wave graphic design as a reaction to Swiss Style. Emphasize rejection of strict grids and typographic neutrality, and include experimental typography, asymmetry, layering, and the influence of postmodern/punk energy. Include exactly 5 tags, exactly 2 real museum/reference links, “Not to be confused with…”, and an accountability sentence.
+
+**AI Output Summary:**
+The output successfully framed New Wave as a reaction to Swiss Style and highlighted experimentation. It needed the “Not to be confused with…” line to explicitly name Swiss Style and describe the difference in one clean sentence.
+
+**Revision Decision:**
+Edit the comparison sentence to directly reference Swiss Style and explain the core difference (structure/neutrality vs expressive disruption), then verify Tate/MoMA links.
+
+---
+
+## Final Notes (Manual Verification)
+
+After drafting with AI, I manually:
+- Confirmed each card met the word-count range.
+- Ensured each card had exactly 5 tags and exactly 2 working links.
+- Verified key claims using reputable sources (Bauhaus Archive, Tate, MoMA).
+- Removed vague adjectives and kept a museum-label tone.
